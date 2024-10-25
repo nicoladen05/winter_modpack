@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "8bd2400ff4d2cc3d13b97737c55de3570514702c79f0bda095a5e4d0024c3c98"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "341dda916c32ec8328c6c41d91bc6ad41b5d78f62346aa05a8e6e4642bd45b41"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "beb1f7ccd7c0ca2862492e51d6692c22b2d6cf9ee9f2a5c1274c1b9930e2b9c4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "78ec0d54cfc92105ddc317391e993cac83ed9cb84f90c20341a4b05ff9bb60c7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "42f074972a20b8fd6376c0c42d09c2e8b88e7f9b120ffbfc36844f7585f37133"
+metafile = true
+
+[[files]]
+file = "mods/filament.pw.toml"
+hash = "2e4393ede04146430a8dd88dfeca33c560c736bede4247e219d5a2ab14aedbf5"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "b59a97248db358161d9980f53ff40be1f5445a635e950831607af6f195134247"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "f729857234a3275c10896d5b8ae5877bca8c5ae6836c27ddcd199c9af0b51afa"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "8439135b170801c61a3e11f1d2d90eb86b23728ce4c34f98c47c1a636961aaa3"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "b2b91a03cbe3cc5db03074817a2db5200e2a62dbf64024ab130f6cd96f4827a4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "f5d7d15dc3297f02ff7d8649d15124fc0b1ce237a911d0d8cea6d95e7eaae3f0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "2367014a651540147f30f424439d2e9f8eabfea997cc7b8b4d41785182278498"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "3b3f45659f22576c1edb804eae82e54d31cea9161676d3509e01d9c3965d3589"
+metafile = true
+
+[[files]]
+file = "mods/nicemod-new-blocks.pw.toml"
+hash = "7c4d81bc0697564d4a6c5b21bb792c8f19acf2159e28c77285105c906d65f978"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "4dc3e61566a8d38386115155e8ac7d5dc7ef6faaec71312529636f035275e2bb"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
+metafile = true
+
+[[files]]
+file = "mods/primal-winter.pw.toml"
+hash = "9f0c6d20b6c390358dbbfed2bc2dbbab1784f4aa7264800e030f616b2e277f93"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a717ad1dd50748d87bb8a1126054933bf59617238f968acaa1844e71aed29585"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "05cc0cf3e6069fda3b732a4dcb14a07447d65bc559540c85bd6c26a8190308df"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
+metafile = true
+
+[[files]]
+file = "mods/tsa-decorations.pw.toml"
+hash = "c3b054af3f39db6372354777e81d29c8784c048303a7d6a1bfc911913275c39c"
+metafile = true
+
+[[files]]
+file = "mods/yamato-gun.pw.toml"
+hash = "aeb7a4dcc081a821b2750ff954aa5a98111edbad047c8ac332447cb4d36cfe74"
+metafile = true

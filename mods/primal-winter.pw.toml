@@ -1,0 +1,13 @@
+name = "Primal Winter"
+filename = "primalwinter-fabric-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOwymOaY/versions/XhbPG1T7/primalwinter-fabric-1.21.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "a03edaf5f9b7737c2173c72d3cb0e58c32f175b52aa8a7e3471e50e7e2e4c9084415b54acc4af77466e1749ca98c159d576789e94e2cb0a11eb768cec48e3a64"
+
+[update]
+[update.modrinth]
+mod-id = "BOwymOaY"
+version = "XhbPG1T7"

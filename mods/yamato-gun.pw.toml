@@ -1,0 +1,13 @@
+name = "Yamato Gun"
+filename = "YamatoGunMod-fabric-0.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZoCbc26/versions/WEVmYjH8/YamatoGunMod-fabric-0.0.12.jar"
+hash-format = "sha512"
+hash = "c444505a8af2a68e56ad92584c4988374adee495d45a84dabb46649c56523f04f1433d5cbbfd0ac79df0eb3e2214ada0f7e4682f462183eb32dca9d451b187eb"
+
+[update]
+[update.modrinth]
+mod-id = "WZoCbc26"
+version = "WEVmYjH8"

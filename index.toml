@@ -61,13 +61,28 @@ hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "18a19036986a978a0b725b2cfb3954e320e6fb5cf6af4a71e98966c98fc03086"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "1c6fd7e4c369381f0f6bdad08c9dba7d62fb08036cf95b476f674b8bb0eb2a98"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "dd941ad7e4c054475831614e7d8197684c3f0667075b8b69dc093da4ab653755"
 metafile = true
 
 [[files]]
@@ -96,6 +111,11 @@ hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "188816f96febfb031078525443b24cb29c57b98132443406f2834980121ec9a8"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
 metafile = true
@@ -118,4 +138,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
 metafile = true

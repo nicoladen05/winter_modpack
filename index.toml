@@ -26,6 +26,11 @@ hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "9f6dcd9dd7ba6ec3300d32aa295825e7af4505a6ffdaae52df8105dd2a808e79"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "61f04204c5639faeac39b9f7b434d3668deb157cb33d363a9215b285b07ec69d"
 metafile = true
@@ -96,6 +101,16 @@ hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
+metafile = true
+
+[[files]]
 file = "mods/yamato-gun.pw.toml"
 hash = "aeb7a4dcc081a821b2750ff954aa5a98111edbad047c8ac332447cb4d36cfe74"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true

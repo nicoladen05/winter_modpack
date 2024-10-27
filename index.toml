@@ -86,6 +86,16 @@ hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
+metafile = true
+
+[[files]]
 file = "mods/yamato-gun.pw.toml"
 hash = "aeb7a4dcc081a821b2750ff954aa5a98111edbad047c8ac332447cb4d36cfe74"
 metafile = true

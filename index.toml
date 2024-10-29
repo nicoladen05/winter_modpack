@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "cc578966d86aedc480fc10fcd95d6e0d2fae96f139dc29c9df4e016432a543e6"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -13,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "a88062741d3dd0c2d835ddd4995c29cc3b6d702fd87b0cb13562c774a36cfb0c"
 metafile = true
 
 [[files]]
@@ -71,6 +86,16 @@ hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "b7b8dc470fb759eb995f27af040f9690af721abde8d0bf1bb96860398df11e60"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "087e1cd4dd2be4f6023472aa75e98c8afa609f5f1bc1669492219aed4febd1f0"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "1c6fd7e4c369381f0f6bdad08c9dba7d62fb08036cf95b476f674b8bb0eb2a98"
 metafile = true
@@ -91,6 +116,21 @@ hash = "3b3f45659f22576c1edb804eae82e54d31cea9161676d3509e01d9c3965d3589"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "48d65eb078abf8cefe76aa711ec318944c50c7fed789d7cb7e107e2537a1ad62"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "62bc1d0108fe9e13d45d3534bb70edc36b7af98e8a68439a75e4c692adca2a50"
 metafile = true
@@ -106,8 +146,18 @@ hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "a7784063c2a65522935f17c5bf30545778a1d28be13a0b8cb102339bd1c14afc"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7be37b57d8c86d7e2bb63f525a1616c9f022ac59cc748d299b6dc3fc8351945e"
 metafile = true
 
 [[files]]

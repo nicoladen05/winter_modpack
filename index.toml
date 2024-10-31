@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "61f04204c5639faeac39b9f7b434d3668deb157cb33d363a9215b285b07ec69d"
+hash = "d9ebba46a2513d9af6dacc00cebeeb7e298502808bb101d7f77cf221638e39a6"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
+hash = "2f7cd6067865d66bdd991e97389fd8ca6c4204f6032113d50d0c5d6bafea6e97"
 metafile = true
 
 [[files]]

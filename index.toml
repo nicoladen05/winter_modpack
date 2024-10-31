@@ -6,6 +6,11 @@ hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cc578966d86aedc480fc10fcd95d6e0d2fae96f139dc29c9df4e016432a543e6"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "9e9df33223d6e21e8ccad4788ca89fc1fa7c4354d47e0d5f9e9fc64fc4a89289"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "9a3ae4bb9ad94e6661c11e186acc561baa62c99557b76d55b25f5f764dd567f6"
 metafile = true
 
 [[files]]
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "31f59e69634849451d756451fc3372fd2f6e17202b2fbeb451cd764d3bbbeede"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "d9ebba46a2513d9af6dacc00cebeeb7e298502808bb101d7f77cf221638e39a6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
@@ -131,6 +146,11 @@ hash = "b7b8dc470fb759eb995f27af040f9690af721abde8d0bf1bb96860398df11e60"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "087e1cd4dd2be4f6023472aa75e98c8afa609f5f1bc1669492219aed4febd1f0"
 metafile = true
@@ -156,8 +176,18 @@ hash = "3b3f45659f22576c1edb804eae82e54d31cea9161676d3509e01d9c3965d3589"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c60d088f476eb37e15d88a762591d39874a99d80c729da813e0f4951e2906d16"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
@@ -186,6 +216,11 @@ hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "3f2ce1c1eebbc21632b4cb111053585b61b377570676a7a0bbf5462cd1cb4c83"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
 metafile = true
@@ -211,8 +246,18 @@ hash = "2c0773301e5c6f46f77509496f18f3b07826deb17a5eeb6daab42912737b439f"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "188816f96febfb031078525443b24cb29c57b98132443406f2834980121ec9a8"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "dc382290106ff8657b408cdd44fc86268cba0de757708167e83e99f0cbcebb92"
 metafile = true
 
 [[files]]

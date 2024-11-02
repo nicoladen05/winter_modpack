@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/firstperson.json"
+hash = "3ccd2259d9e7f97880c85c09e87f5a7fc9c3cb61c43baecb4a7b7cf45efe115a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
 metafile = true

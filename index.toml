@@ -186,6 +186,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
@@ -228,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "a7784063c2a65522935f17c5bf30545778a1d28be13a0b8cb102339bd1c14afc"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "389134f12bd60b5951c2f4c34dc33ced00bd0dae06b02f43b76184aef6643012"
+metafile = true
+
+[[files]]
+file = "mods/snowyleavesplus.pw.toml"
+hash = "f1a39bb9289bed1637601edf98122195db1dd856adee8c3e252a3c3d5edce844"
 metafile = true
 
 [[files]]

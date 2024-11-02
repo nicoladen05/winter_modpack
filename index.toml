@@ -111,6 +111,11 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "abd7ab3e2f4351b05127713ed978724e4382a8693f4b77795c8097ab4d356eff"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]

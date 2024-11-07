@@ -18,7 +18,7 @@ hash = "ad8040ac3156dafd8b436fc035438ff1a07bcfed24d02a2dbe901158525592f9"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "CE64595D1492BEB2B1DC4AD56C7D87E833B3B232ABF4EEF1625605A93DE34C7D"
+hash = "ce64595d1492beb2b1dc4ad56c7d87e833b3b232abf4eef1625605a93de34c7d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

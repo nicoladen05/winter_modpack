@@ -5,8 +5,20 @@ file = "config/firstperson.json"
 hash = "3ccd2259d9e7f97880c85c09e87f5a7fc9c3cb61c43baecb4a7b7cf45efe115a"
 
 [[files]]
+file = "config/minihud/new_world.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/new_world_dim_minecraft_overworld.json"
+hash = "b48fb45a4ec471587b8e16f71ab259f5c1d3cfec4277bf351135ef49f3160c6b"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "ad8040ac3156dafd8b436fc035438ff1a07bcfed24d02a2dbe901158525592f9"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "4137ab30d29fa096064274bdc90b6e757b85604dadb5bbe3f16587f2ee915fa6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -191,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "3b3f45659f22576c1edb804eae82e54d31cea9161676d3509e01d9c3965d3589"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "9c1591aa2d56e18cf5f18bae8195a54774690cb1ae19f2ff984c82b455fa1d48"
 metafile = true
 
 [[files]]

@@ -26,6 +26,11 @@ hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "a994ae9f75079a5ab89396a91751ab2f03dde4dbe595eb3761e6fc3746fba1ce"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
 metafile = true
@@ -52,7 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "312af907dbc74cccd42de859c5545f84a7098d7a2a055b1478aec928fe3a56ac"
+hash = "90d807174b989a4e9516937d461a9488311095db7b6896e048c57b7825b15110"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "7b24565cbfed71b13cb435ef15b237a2a5175eab719310a37e6ca640f248e2d8"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
 metafile = true
 
 [[files]]
@@ -92,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "c99e4e41ff82f7562d382307913ce94377e078b961da08736fec80efbb21f614"
+hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
-hash = "58079f9d6d5bfb028b22587bea5292ce39f5c89235d528a8617ecff3feabbdd0"
+hash = "33c41ce33262edd33832faac7b18119f356ab55352e74fc89f58c13a856cabce"
 metafile = true
 
 [[files]]
@@ -122,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
+hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
 metafile = true
 
 [[files]]
@@ -177,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "2f3615d3f75368a998f66bf342cb1410b4a33cdc5671eb6a0ef3e51933cc9d3b"
+hash = "b5780e12aef5b370584a2d6e6c50205d128da0ffcb75a863d583a3234cb36222"
 metafile = true
 
 [[files]]
@@ -202,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
+hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
 metafile = true
 
 [[files]]
@@ -212,17 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
+hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
 metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "b09c456dbe903f9951aacccf20b0a572106d5499da088ace925dcac0d22cd5f7"
+hash = "7c23724abdf8cb5899459aeeb717b4314ebe3cf06d6ff55bf1ae3708e10d445e"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "942fbf825b6090fbc4622de3719bb62ff6acf7ba8faa1a573b8f7c832baf6b7d"
+hash = "9e48afc3bf83d788f7164d06b6cf18ddfd6ba402ffa8d90a7a96aa97c4742cd7"
 metafile = true
 
 [[files]]
@@ -257,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "48d65eb078abf8cefe76aa711ec318944c50c7fed789d7cb7e107e2537a1ad62"
+hash = "546986185368ec93dc68d65c0349b8c0028124c2f759497a1eb6e510d620b584"
 metafile = true
 
 [[files]]
@@ -335,8 +350,13 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "c4ecee9b36311567d27825c67cc2af43ff27a189cb579bc69e5c15d1c5864bf0"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "07a0f1bdea6f1759d91b4e9d496c709ec4e0cd1639e2598f3a6243714e9f0be3"
+hash = "875876c593e0d8c2c973b2884425377c55235259b23da9d73acaed2959e7c90b"
 metafile = true
 
 [[files]]

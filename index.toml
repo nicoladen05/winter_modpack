@@ -326,6 +326,10 @@ hash = "2c0773301e5c6f46f77509496f18f3b07826deb17a5eeb6daab42912737b439f"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica-fabric-1.21-0.3.12-sakura.6.jar"
+hash = "3daa82c8d4c0459e09539853652425ea097d86fddcc6a41f330e9f5b18e013e6"
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true

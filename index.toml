@@ -186,6 +186,11 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
+file = "mods/instaminable-deepslate.pw.toml"
+hash = "e507dae318778f9c7697eb41a691130d02daff62fbf45184ecef3777bbac15fc"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
 metafile = true

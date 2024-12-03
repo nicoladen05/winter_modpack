@@ -216,6 +216,11 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
+file = "mods/lava-clear-view.pw.toml"
+hash = "458c3dfcd2ae66010ef0908ca03f0bfa1b6f8c0baa63d872f5c21ac361543b0f"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "c12090d1aa1239085a4b3d790900823ad14a40eacbd8fa42d9626d22995a8a80"
 metafile = true

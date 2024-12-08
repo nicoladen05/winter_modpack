@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cameraoverhaul.json"
+hash = "5c15d359fbaa2af3f18ea8f2676dae6474dde788988879138693cc3da318316a"
+
+[[files]]
 file = "config/do_a_barrel_roll-client.json"
 hash = "22d6678a60c101e625f1eeea6179f08e9063bf4b0523372482956d0c283c5964"
 
@@ -293,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
+metafile = true
+
+[[files]]
+file = "mods/photography.pw.toml"
+hash = "f0b373181ccaf8563d6a3229a98e7395dedd5f8ec6dacd37c2af1273f94cb605"
 metafile = true
 
 [[files]]

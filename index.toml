@@ -55,6 +55,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "7a5f1830a01e3b80f8401a4ba9a3dcd54a0b70d0d049a35a3f655c63489eab5a"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "9e9df33223d6e21e8ccad4788ca89fc1fa7c4354d47e0d5f9e9fc64fc4a89289"
 metafile = true
@@ -95,6 +100,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+metafile = true
+
+[[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "dd7d56c815477073adfcb718c933d2b7cd08cb4c29d26d2409b9b8feac55d3fe"
 metafile = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3c2f0bff7c03aaee08732e2074af4c1cf1f5d3201c5bc3ad9000b8760cba2b41"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
 
 [[files]]
@@ -192,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
+file = "mods/gui-compass.pw.toml"
+hash = "7a084dc9bd31c21f07f5c475b6941d13d1cda1d4531f4cc097bf6c285c5937ac"
 metafile = true
 
 [[files]]
